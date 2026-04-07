@@ -1,0 +1,11 @@
+Attendance_%,CGPA,Assignments_Submitted,Lab_Hours_Per_Week,Has_Part_Time_Job,Scholarship,Counsellor_Visits,Dropped_Out,risk_score,reason
+68.1,6.08,3,11.7,0.0,0,0,1,0.99,Low Assignment Submission
+46.7,5.95,11,10.4,0.0,0,0,1,0.99,Low CGPA
+46.7,4.86,7,8.0,0.0,0,0,1,0.99,Low CGPA
+44.3,4.35,30,6.3,0.0,0,2,1,0.98,Low CGPA
+90.1,5.82,13,8.5,1.0,1,0,1,0.98,Low CGPA
+94.7,6.15,12,13.0,1.0,0,0,1,0.98,Moderate Risk
+76.1,6.08,3,11.2,0.0,1,0,1,0.98,Low Assignment Submission
+83.3,6.09,4,11.3,0.0,0,0,1,0.98,Low Assignment Submission
+42.4,4.51,14,6.3,0.0,1,4,1,0.97,Low CGPA
+84.7,4.5,10,13.3,0.0,0,0,1,0.97,Low CGPA
